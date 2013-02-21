@@ -1,4 +1,4 @@
-apigee
-======
+Apigee Skeleton Class Generator
+===============================
 
-Apigee skeleton file generator
+Moved to [https://github.com/jnonon/apigeenerator](https://github.com/jnonon/apigeenerator)
